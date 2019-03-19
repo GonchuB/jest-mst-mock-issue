@@ -1,4 +1,4 @@
-import UserStore from "../stores/user.store";
+import UserStore from "../user.store";
 
 import api from "./api";
 import errorStore from "./errorStore";

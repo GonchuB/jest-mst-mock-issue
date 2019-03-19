@@ -1,4 +1,4 @@
-import NavigationStore from "../stores/navigation.store";
+import NavigationStore from "../navigation.store";
 
 import errorStore from "./errorStore";
 
