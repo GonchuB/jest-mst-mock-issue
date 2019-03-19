@@ -1,7 +1,7 @@
-import store from "../../mocks/userStore";
-import errorStore from "../../mocks/errorStore";
-import navigationStore from "../../mocks/navigationStore";
-import api from "../../mocks/api";
+import store from "../mocks/userStore";
+import errorStore from "../mocks/errorStore";
+import navigationStore from "../mocks/navigationStore";
+import api from "../mocks/api";
 
 const mockUser = {
   firstName: "John",
